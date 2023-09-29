@@ -1,0 +1,5 @@
+    SDF234                     con chuot        14
+    QWE123                   dau goi dau        10
+    UIO789                         n h k         5
+    VBN345                       do dung         5
+    DFG456                           ghj         0

@@ -1,0 +1,480 @@
+ORDER INFORMATION
+	Order ID :  01112021213901
+	Name:  Nguyen hong son
+	Shipping address:  noi ninh
+---------------------------------------------
+
+	Product ID  QWE123 with quantity :  4
+
+	Product ID  TYU678 with quantity :  5
+----------------------------------------------
+Discount 10%Total price : 685.799988ORDER INFORMATION
+	Order ID :  02112021171724
+	Name:  nguyen mai huong
+	Shipping address:  bac giang
+---------------------------------------------
+
+	Product ID  TYU678 with quantity :  2
+
+	Product ID  UIO789 with quantity :  5
+----------------------------------------------
+Discount 10%
+Total price : 463.500000ORDER INFORMATION
+	Order ID :  02112021172016
+	Name:  john son
+	Shipping address:  ameruca
+---------------------------------------------
+
+	Product ID  QWE123 with quantity :  7
+----------------------------------------------
+Discount 10%
+Total price : 491.40
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021183240
+	Name:  nguyen hong son
+	Shipping address:  noi ning
+---------------------------------------------
+
+	Product ID  QWE123 with quantity :  9
+
+	Product ID  GHJ567 with quantity :  2
+----------------------------------------------
+Discount 10%
+Total price : 667.80
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021183858
+	Name:  nguyen hong son
+	Shipping address:  noininh
+---------------------------------------------
+
+	Product ID : QWE123 with quantity :  6 " 5
+
+	Product ID : GHJ567 with quantity :  7 " 20
+----------------------------------------------
+Discount 10%
+Total price : 153.00
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021184048
+	Name:  nguyen hong son
+	Shipping address:  noi ninh
+---------------------------------------------
+
+	Product ID : QWE123 with quantity :  2 x 5 $
+
+	Product ID : GHJ567 with quantity :  4 x 20 $
+----------------------------------------------
+Discount 10%
+Total price : 81.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021190900
+	Name:  Nguyen Hong Son
+	Phone number:  0335633402
+	Shipping address:  noi ninh ninh son
+-----------------------------------------------
+
+ +)Product ID : QWE123 with quantity :  4 x 5 $
+
+ +)Product ID : GHJ567 with quantity :  5 x 20 $
+-----------------------------------------------
+Discount 10%
+Total price : 108.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021191057
+	Name:  Nguyen Hong SOn
+	Phone number:  123456789
+	Shipping address:  j k l
+-----------------------------------------------
+
+ +)  Product ID : QWE123 with quantity :  1 x 5 $
+-----------------------------------------------
+Discount 10%
+Total price : 4.50 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021193717
+	Name:  Nguyen Hong Son
+	Phone number:  123456789
+	Shipping address:  noi ninh ninh son
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  8 x 5 $
+-----------------------------------------------
+Discount 10%
+Total price : 36.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021194037
+	Name:  nguyenn hong son
+	Phone number:  1234567
+	Shipping address:  noi ninh
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  7 x 5 $
+-----------------------------------------------
+Discount 10%
+Total price : 31.50 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021194550
+	Name:  nguyenn hong sin
+	Phone number:  67890
+	Shipping address:  noi ninh
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  12 x 5 $
+-----------------------------------------------
+Discount 10%
+Total price : 54.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021194954
+	Name:  s
+	Phone number:  8
+	Shipping address:  i
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  6 x 5 $
+-----------------------------------------------
+Discount 10%
+Total price : 27.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021195306
+	Name:  nguyen hong son
+	Phone number:  1234567
+	Shipping address:  noi ninh
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  5 x 5 $
+-----------------------------------------------
+Discount 10%
+Total price : 22.50 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021220423
+	Name:  Nguyen Hongf Son
+	Phone number:  12345678
+	Shipping address:  noi ninh
+-----------------------------------------------
+
+ +) Product ID : TYU678 with quantity :  4 x 20 $
+
+ +) Product ID : UIO789 with quantity :  7 x 89 $
+
+ +) Product ID : GHJ567 with quantity :  1 x 5 $
+-----------------------------------------------
+Discount 10%
+Total price : 637.20 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021220707
+	Name:  n
+	Phone number:  34
+	Shipping address:  nl
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  1 x 67 $
+-----------------------------------------------
+Discount 10%
+Total price : 60.30 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021225100
+	Name:  nguyen hong son
+	Phone number:  1234567
+	Shipping address:  noi nih
+-----------------------------------------------
+
+ +) Product ID : UIO789 with quantity :  6 x 89 $
+-----------------------------------------------
+Discount 10%
+Total price : 480.60 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021234136
+	Name:  j
+	Phone number:  34
+	Shipping address:  gh
+-----------------------------------------------
+
+ +) Product ID : GHJ567 with quantity :  7 x 24 $
+-----------------------------------------------
+Discount 10%
+Total price : 151.20 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021234340
+	Name:  t
+	Phone number:  5
+	Shipping address:  y
+-----------------------------------------------
+
+ +) Product ID : UIO789 with quantity :  5 x 10 $
+
+ +) Product ID : UIO789 with quantity :  5 x 89 $
+-----------------------------------------------
+Discount 10%
+Total price : 445.50 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021000930
+	Name:  nh
+	Phone number:  34
+	Shipping address:  e
+-----------------------------------------------
+
+ +) Product ID : GHJ567 with quantity :  4 x 89 $
+-----------------------------------------------
+Discount 10%
+Total price : 320.40 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021003711
+	Name:  ng jk
+	Phone number:  4567
+	Shipping address:  rtyu
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  4 x 12 $
+-----------------------------------------------
+Discount 10%
+Total price : 43.20 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021003800
+	Name:  thg
+	Phone number:  56
+	Shipping address:  t
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  5 x 12 $
+-----------------------------------------------
+Discount 10%
+Total price : 54.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021004512
+	Name:  ngyen hon gosn
+	Phone number:  12345678
+	Shipping address:  noi nih
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  4 x 12 $
+-----------------------------------------------
+Discount 10%
+Total price : 43.20 $
+===============================================
+ORDER INFORMATION
+	Order ID :  02112021005010
+	Name:  ng h
+	Phone number:  45
+	Shipping address:  er
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  4 x 12 $
+-----------------------------------------------
+Discount 10%
+Total price : 43.20 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021080801
+	Name:  nguyen hong son
+	Phone number:  0335633402
+	Shipping address:  noi ninh sinh son
+-----------------------------------------------
+
+ +) Product ID : ERT345 with quantity :  5 x 45 $
+-----------------------------------------------
+Discount 10%
+Total price : 202.50 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021081011
+	Name:  qwe rt
+	Phone number:  345
+	Shipping address:  rty
+-----------------------------------------------
+
+ +) Product ID : DFG456 with quantity :  4 x 6 $
+-----------------------------------------------
+Discount 10%
+Total price : 21.60 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021082337
+	Name:  ngh k 
+	Phone number:  45
+	Shipping address:  t
+-----------------------------------------------
+
+ +) Product ID : DFG456 with quantity :  5 x 6 $
+-----------------------------------------------
+Discount 10%
+Total price : 27.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021082953
+	Name:  e r t
+	Phone number:  567
+	Shipping address:  sdf
+-----------------------------------------------
+
+ +) Product ID : XCV123 with quantity :  5 x 36 $
+-----------------------------------------------
+Discount 10%
+Total price : 162.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021083227
+	Name:  rt
+	Phone number:  54
+	Shipping address:  w
+-----------------------------------------------
+
+ +) Product ID : XCV123 with quantity :  5 x 36 $
+-----------------------------------------------
+Discount 10%
+Total price : 162.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021083424
+	Name:  f
+	Phone number:  5
+	Shipping address:  t
+-----------------------------------------------
+-----------------------------------------------
+Discount 10%
+Total price : 0.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021091044
+	Name:  t
+	Phone number:  5
+	Shipping address:  r
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  5 x 12 $
+-----------------------------------------------
+Discount 10%
+Total price : 54.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021091956
+	Name:  nguyen hong son
+	Phone number:  123456789
+	Shipping address:  f g h j
+-----------------------------------------------
+
+ +) Product ID : MAY234 with quantity :  4 x 50 $
+-----------------------------------------------
+Discount 10%
+Total price : 180.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021095418
+	Name:  nguyen hong son
+	Phone number:  0335633402
+	Shipping address:  noi ninh - ninh son
+-----------------------------------------------
+
+ +) Product ID : MAY234 with quantity :  10 x 50 $
+-----------------------------------------------
+Discount 10%
+Total price : 450.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021095712
+	Name:  n h j
+	Phone number:  234
+	Shipping address:  we
+-----------------------------------------------
+
+ +) Product ID : XCV123 with quantity :  5 x 36 $
+-----------------------------------------------
+Discount 10%
+Total price : 162.00 $
+===============================================
+ORDER INFORMATION
+	Order ID :  03112021213646
+	Name:  nguyen hong son
+	Phone number:  1234456
+	Shipping address:  noi ninh
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  4 x 12 $
+-----------------------------------------------
+Discount 10%
+Total price : 43.20 $
+===============================================
+
+
+
+ORDER INFORMATION
+	Order ID :  03112021214052
+	Name:  Nguyen Hong Son
+	Phone number:  0335633402
+	Shipping address:  noi ninh - ninh son
+-----------------------------------------------
+
+ +) Product ID : SDF234 with quantity :  7 x 40 $
+
+ +) Product ID : UIO789 with quantity :  5 x 90 $
+-----------------------------------------------
+Discount 10%
+Total price : 657.00 $
+===============================================
+
+
+
+ORDER INFORMATION
+	Order ID :  03112021214359
+	Name:  NGuyn hing son
+	Phone number:  123467
+	Shipping address:  fj  e r
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  2 x 12 $
+-----------------------------------------------
+Discount 10%
+Total price : 21.60 $
+===============================================
+
+
+
+ORDER INFORMATION
+	Order ID :  03112021225659
+	Name:  NGuyen hong son
+	Phone number:  123456789
+	Shipping address:  noi ninh
+-----------------------------------------------
+
+ +) Product ID : QWE123 with quantity :  4 x 12 $
+-----------------------------------------------
+Discount 10%
+Total price : 43.20 $
+===============================================
+
+
+
+ORDER INFORMATION
+	Order ID :  03112021232409
+	Name:  Nguyen Hong SOn
+	Phone number:  0335633402
+	Shipping address:  noi ninh - ninh son
+-----------------------------------------------
+
+ +) Product ID : SDF234 with quantity :  7 x 40 $
+
+ +) Product ID : VBN345 with quantity :  5 x 45 $
+-----------------------------------------------
+Discount 10%
+Total price : 454.50 $
+===============================================
+
+
+

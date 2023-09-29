@@ -1,0 +1,7 @@
+    DFG456                           ghj         0
+    MAY234                      may tinh         0
+    QWE123                   dau goi dau        10
+    SDF234                     con chuot        14
+    UIO789                         n h k         5
+    VBN345                       do dung         5
+    XCV123                    dien thoai         0
